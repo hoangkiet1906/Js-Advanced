@@ -1,9 +1,4 @@
-/**
-* Template Name: Vlava - v2.2.1
-* Template URL: https://bootstrapmade.com/vlava-free-bootstrap-one-page-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 !(function($) {
   "use strict";
 
